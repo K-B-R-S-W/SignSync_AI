@@ -31,6 +31,8 @@ This project recognizes **full sentences (dynamic gestures)** from video input a
 ---
 
 ## 📂 Project Structure
+
+```
 SignSync_AI/
 │
 ├── Raw_Videos/                  <-- [INPUT] Put your MP4 files here
@@ -44,7 +46,7 @@ SignSync_AI/
 ├── test_setup.py                <-- Verify PyTorch/CUDA installation
 │
 ├── Data_Train/                  <-- Training scripts
-│   └── train_pytorch.py  
+│   ├── train_pytorch.py  
 │   └── train_Tensor.py        
 │
 ├── Models/                      <-- [OUTPUT] Trained models
@@ -57,6 +59,7 @@ SignSync_AI/
     │   ├── 1/                   <-- Sequence 1 (Augmented)
     │   └── ...
     └── ...
+```
 
 ## 🛠️ Installation
 
