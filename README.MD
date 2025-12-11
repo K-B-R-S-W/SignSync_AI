@@ -30,7 +30,7 @@ This project recognizes **full sentences (dynamic gestures)** from video input a
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 SignSync_AI/
 │
 ├── Raw_Videos/                  <-- [INPUT] Put your MP4 files here
@@ -58,7 +58,7 @@ SignSync_AI/
     │   └── ...
     └── ...
 
-🛠️ Installation
+## 🛠️ Installation
 
 **Prerequisites:**
 - Python 3.8 or higher
