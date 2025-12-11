@@ -260,8 +260,8 @@ python real_time_inference.py
 - Confusion Matrix: Perfect diagonal (zero misclassifications)
 
 <p align="center">
-  <img src="Images/training_accuracy.png" alt="Training Accuracy" width="45%">
   <img src="Images/confusion_matrix.png" alt="Confusion Matrix" width="45%">
+  <img src="Images/training_accuracy.png" alt="Training Accuracy" width="45%">
 </p>
 
 ### **Real-Time Inference**
@@ -281,13 +281,6 @@ python real_time_inference.py
 - 🟢 **Motion Detection**: Only triggers on actual signing
 - 📊 **Confidence Scores**: Real-time accuracy display
 - ⚡ **GPU Acceleration**: 60+ FPS on RTX cards
-
-> **Note:** Place your screenshots in the `Images/` folder with the following naming convention:
-> - `training_accuracy.png` - Training/validation curves
-> - `confusion_matrix.png` - Model confusion matrix
-> - `detection_demo_1.png` - Live detection example 1
-> - `detection_demo_2.png` - Live detection example 2
-> - `gpu_performance.png` - System performance metrics
 
 ---
 
